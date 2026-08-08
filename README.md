@@ -4,14 +4,6 @@ I am an independent Software Developer and Deep Learning Enthusiast focused on b
 
 ---
 
-## 📹 About Sou-studio
-
-**Sou-studio** is a tech-education and software development ecosystem. The mission is to strip away heavy enterprise dependencies and help developers understand the foundational mathematics and engineering behind modern AI.
-
-* 🌍 **YouTube Channel:** [@Sou-studio](https://www.youtube.com/@Sou-studio) — Deep-dives into coding, raw neural networks, and micro-framework mechanics.
-* 📸 **Instagram:** [@sou.studio](https://instagram.com) — Daily coding insights, technical breakdowns, and project updates.
-
----
 
 ## 🛠️ Featured Open-Source Projects
 
