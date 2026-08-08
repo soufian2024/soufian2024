@@ -8,7 +8,7 @@ I am an independent Software Developer and Deep Learning Enthusiast focused on b
 
 **Sou-studio** is a tech-education and software development ecosystem. The mission is to strip away heavy enterprise dependencies and help developers understand the foundational mathematics and engineering behind modern AI.
 
-* 🌍 **YouTube Channel:** [@Sou-studio](https://youtube.com) — Deep-dives into coding, raw neural networks, and micro-framework mechanics.
+* 🌍 **YouTube Channel:** [@Sou-studio](https://www.youtube.com/@Sou-studio) — Deep-dives into coding, raw neural networks, and micro-framework mechanics.
 * 📸 **Instagram:** [@sou.studio](https://instagram.com) — Daily coding insights, technical breakdowns, and project updates.
 
 ---
@@ -36,7 +36,7 @@ The next-generation evolution of the n5 framework. Tensor5 scales up from 2D vis
 
 ## 📬 Connect with Me
 
-* 🎥 Subscribe on [YouTube](https://youtube.com)
+* 🎥 Subscribe on [YouTube](https://www.youtube.com/@Sou-studio)
 * 📸 Follow the journey on [Instagram](https://instagram.com)
 
 *"Building the future of AI, one raw array at a time."*
